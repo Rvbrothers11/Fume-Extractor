@@ -8,6 +8,9 @@ AirBench states that solder can cause illnesses such as chronic bronchitis, chem
 Credits:
 https://www.airbench.com/latest/health-risks-associated-with-exposure-to-solder-fumes/
 
+How to use the product:
+In order to use the product, press the rotary encoder switch after plugging the adapter into your home socket, which will turn the fan on. You can use the potentiometer to control the fan speed, and the encoder to control the fan angle. 
+
 Final Product Image:
 
 <img width="471" height="430" alt="image" src="https://github.com/user-attachments/assets/80023f17-2626-4223-a7d4-569e1a600bf6" />
